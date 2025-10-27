@@ -1,0 +1,44 @@
+.bg {
+  display: flex;
+  background-color: #f1f5f8;
+  background-size: cover;
+  flex-direction: column;
+  height: 100vh;
+  width: auto;
+   justify-content: center;
+}
+.card {
+ 
+  text-align: center;
+}
+
+.headi {
+  font-family: Roboto;
+  font-size: 30p;
+  color: #2d3a35;
+  font-weight: 10px;
+}
+
+.para {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #2d3a35;
+  font-weight: 10px;
+}
+
+.btn {
+  font-family: Roboto;
+  font-size: 15px;
+  height: 30px;
+  width: 90px;
+  font-weight: 10px;
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+.sp {
+  color: #c20a72;
+  font-weight: 10px;
+  font-size: 30px;
+  font-family: Roboto;
+}
